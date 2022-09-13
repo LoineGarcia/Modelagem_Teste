@@ -1,0 +1,31 @@
+**Desafio de Projeto ** - Construindo um Esquema Conceitual do Zero
+
+ 
+
+Qual o escopo? Prestação de Serviço - Cliente / Local / Pagamento
+
+## 
+
+Narrativa: Cliente
+
+·        Qualquer PF ou PJ pode contratar esse serviço(Personal Trainer - seja para benecífio próprio ou para alongamento oferido aosfuncionários da empresa (Ginástica Laboral).
+
+Narrativa:  Local
+
+·        Os serviços serão fornecidos na Academia (ondeo contratante terá que se locomover), na Empresa (onde o contratado terá que selocomover) ou a Domicílio (onde o contratado terá que se locomover).
+
+Narrativa:  Pagamento 
+
+·        O serviço só será prestado mediante aopagamento antecipado.
+
+ 
+
+ 
+
+- “Brinquei” com uma prestação de serviço que utilizo e acompanho de perto. 
+
+ 
+
+- Sujeito a erros de principiante e disposta a aprender, fiquem a vontade para contribuir com meu aprendizado. Agradeço desde já! ♥
+
+ 
